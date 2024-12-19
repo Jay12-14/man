@@ -39,7 +39,7 @@
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Aliso","name":"🙀盘搜┃阿狸","type":3,"api":"csp_Aliso","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-"lives":[
+,"lives":[
 {"name":"牛播一（新版影视仓/ok影视）","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.iill.top/logo/{name}.png"},
 {"name":"IPV4","type":0,"url":"https://raw.gitmirror.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt","playerType":1,"logo":"https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"},
 {"name":"IPV6①","type":0,"url":"https://ghproxy.cn/http://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u","playerType":1},
